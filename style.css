@@ -1,0 +1,17 @@
+h1{
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-size: 45px;
+}
+body{
+    background-color: lightgreen;
+   justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+input{
+    padding: 20px;
+    text-align: center;
+    width: 200px;
+}
